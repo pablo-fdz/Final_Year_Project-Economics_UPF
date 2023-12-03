@@ -6,4 +6,4 @@ In this repository the following supporting documents of the final year project 
 - The datasets which we have used for the regression analysis (in .csv), disaggregated at a district and municipal level, and for each dependent variable (rents of collective/single-family dwellings). 
 - Python scripts about data cleaning and filtering, data analysis and the fitting of the OLS regression models.
 
-Authors of the project: Daniel Pérez, Marina Montero, Carla Serra and Pablo Fernández.
+Authors of the project: *Daniel Pérez, Marina Montero, Carla Serra and Pablo Fernández*.
