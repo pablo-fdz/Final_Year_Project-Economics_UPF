@@ -4,3 +4,5 @@
 In this repository the following supporting documents of the final year project can be found:
 - The dataset which we have used for the regression analysis. It includes data collected by the Spanish Ministry of Transportation as well as the data collected by us.
 - Python scripts about data cleaning and filtering, data analysis and the fitting of the OLS regression models.
+
+Authors of the project: Daniel Pérez, Marina Montero, Carla Serra and Pablo Fernández.
