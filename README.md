@@ -1,4 +1,4 @@
-# Final Year Project - Economics UPF:
+# Final Year Project - Economics UPF
 ## Analyzing the impact of geographical barriers on rental housing prices in the Metropolitan Area of Barcelona
 
 In this repository the following supporting documents of the final year project can be found:
